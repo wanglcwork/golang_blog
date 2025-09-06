@@ -1,0 +1,11 @@
+{"file":"/home/vbox/Workspace/blog-backend/main.go:28","func":"main.main","level":"fatal","msg":"数据库连接失败: dial tcp 127.0.0.1:3306: connect: connection refused","time":"2025-09-06 15:42:12"}
+{"file":"/home/vbox/Workspace/blog-backend/main.go:28","func":"main.main","level":"fatal","msg":"数据库连接失败: dial tcp 127.0.0.1:3306: connect: connection refused","time":"2025-09-06 15:42:32"}
+{"file":"/home/vbox/Workspace/blog-backend/main.go:49","func":"main.main","level":"info","msg":"服务器启动在端口 8080","time":"2025-09-06 16:00:05"}
+{"file":"/home/vbox/Workspace/blog-backend/main.go:49","func":"main.main","level":"info","msg":"服务器启动在端口 8080","time":"2025-09-06 16:10:52"}
+{"file":"/home/vbox/Workspace/blog-backend/controller/user_controller.go:38","func":"blog-backend/controller.(*UserController).Register","level":"warning","msg":"注册输入验证失败: invalid character '-' in numeric literal","time":"2025-09-06 16:21:13"}
+{"file":"/home/vbox/Workspace/blog-backend/controller/user_controller.go:38","func":"blog-backend/controller.(*UserController).Register","level":"warning","msg":"注册输入验证失败: EOF","time":"2025-09-06 16:22:46"}
+{"file":"/home/vbox/Workspace/blog-backend/controller/user_controller.go:38","func":"blog-backend/controller.(*UserController).Register","level":"warning","msg":"注册输入验证失败: invalid character '-' in numeric literal","time":"2025-09-06 16:24:22"}
+{"file":"/home/vbox/Workspace/blog-backend/controller/user_controller.go:38","func":"blog-backend/controller.(*UserController).Register","level":"warning","msg":"注册输入验证失败: invalid character '-' in numeric literal","time":"2025-09-06 16:26:43"}
+{"file":"/home/vbox/Workspace/blog-backend/service/user_service.go:58","func":"blog-backend/service.(*userService).CreateUser","level":"info","msg":"用户创建成功: wangluochuan001","time":"2025-09-06 16:28:17"}
+{"file":"/home/vbox/Workspace/blog-backend/service/user_service.go:58","func":"blog-backend/service.(*userService).CreateUser","level":"info","msg":"用户创建成功: wangluochuan002","time":"2025-09-06 16:29:22"}
+{"file":"/home/vbox/Workspace/blog-backend/service/user_service.go:36","func":"blog-backend/service.(*userService).CreateUser","level":"warning","msg":"用户名已存在: wangluochuan002","time":"2025-09-06 16:29:31"}
